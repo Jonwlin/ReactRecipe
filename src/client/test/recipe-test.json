@@ -1,0 +1,43 @@
+{
+    "name": "recipes",
+    "version": 1.0,
+    "lastUpdated": "03/13/22 11:55",
+    "recipes": [
+        {
+            "name": "Fishy Fish",
+            "description": "Fishiest of the fish you'll ever fish from the sea",
+            "ingredients": {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "item": "Sugar"
+            },
+            "instructions": {
+                "1": "Add sugar"
+            }
+        },
+        {
+            "name": "Big Meat",
+            "description": "massive meat, biggest meat youve ever seen",
+            "ingredients": {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "item": "Sugar"
+            },
+            "instructions": {
+                "1": "Add sugar"
+            }
+        },
+        {
+            "name": "Delicious Duck",
+            "description": "if it quacks and it walks it two legs, it'll be a delicious duck",
+            "ingredients": {
+                "amount": "1",
+                "measurement": "Tbsp",
+                "item": "Sugar"
+            },
+            "instructions": {
+                "1": "Add sugar"
+            }
+        }
+    ]
+}
